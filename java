@@ -2,6 +2,6 @@ class lucky
   {
     public static void main(string[]agrs)
     {
-      system out.println("hiiiiii")
+      system out.println("hiiiiii heloo ")
         }
   }
